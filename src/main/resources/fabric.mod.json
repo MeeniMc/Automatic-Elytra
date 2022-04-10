@@ -19,9 +19,7 @@
 
   "environment": "*",
   "entrypoints": {
-    "main": [
-      "com.loucaskreger.automaticelytra.AutomaticElytra"
-    ]
+    "main": []
   },
   "mixins": [
     "automaticelytra.mixins.json"
