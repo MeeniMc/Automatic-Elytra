@@ -10,7 +10,8 @@
   ],
   "contact": {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/automatic-elytra",
-    "sources": "https://github.com/kregerl/Automatic-Elytra"
+    "sources": "https://github.com/kregerl/Automatic-Elytra",
+    "issues": "https://github.com/kregerl/Automatic-Elytra/issues"
   },
 
   "license": "CC0-1.0",
@@ -27,12 +28,8 @@
   ],
 
   "depends": {
-    "fabricloader": ">=0.12.6",
-    "fabric": "*",
-    "minecraft": "1.18.x",
-    "java": ">=17"
-  },
-  "suggests": {
-    "another-mod": "*"
+    "fabricloader": ">=0.12.1",
+    "minecraft": "^1.17",
+    "java": ">=16"
   }
 }
